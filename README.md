@@ -6,3 +6,4 @@ REQUERIMIENTOS:
 - La API que se usará es: pokeapi.co
 - Crear createPokemonCard: Traer el nombre del pokemon, el id y tipo de pokemon.
 
+https://github.com/fbeltrann/POKEDEXGRUPAL.git
